@@ -1,9 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "contact": [
+    {
+      "id": "ce495e85-00c2-04f9-66ed-b78982265f20",
+      "name": "테스트",
+      "email": "테스트",
+      "message": "테스트"
+    }
+  ]
 }
